@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685765988179",
+    "project_id": "thegoodwriter-ead76",
+    "storage_bucket": "thegoodwriter-ead76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685765988179:android:418aa822136838b2179ba6",
+        "android_client_info": {
+          "package_name": "com.example.web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685765988179-f1kpotdpaoudm3ph9aj935122ann05b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqhL1LW2--YifqYeduMfoHRhMcZNuVkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685765988179-f1kpotdpaoudm3ph9aj935122ann05b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
